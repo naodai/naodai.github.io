@@ -21,11 +21,13 @@ categories: vim plugin
     * matchit.zip
     * nerdtree
     * rainbow
-    * syntatic
-    * vim-autoformat
     * vim-colors-solarized
+    * vim-easymontion
     * vim-indent-guides
+    * vim-phpqa
     * vim-powerline
+    * syntatic(x)
+    * vim-autoformat(x)
     
 #### matchit.zip
     项目地址：https://github.com/vim-scripts/matchit.zip
@@ -52,9 +54,17 @@ categories: vim plugin
 	项目地址：https://github.com/altercation/vim-colors-solarized
 	经典配色
 
+#### vim-easymontion
+    项目地址: https://github.com/easymotion/vim-easymotion
+    快速跳转
+
 #### vim-indent-guides
 	项目地址：https://github.com/nathanaelkane/vim-indent-guides
 	缩进显示，使用颜色块来显示缩进
+
+#### vim-phpqa
+    项目地址: https://github.com/joonty/vim-phpqa
+    php代码检查
 
 #### vim-powerline
 	项目地址：https://github.com/Lokaltog/vim-powerline
