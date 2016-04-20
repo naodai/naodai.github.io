@@ -17,3 +17,9 @@ github_username: naodai
 
 # Build settings
 markdown: kramdown
+
+gems: [jekyll-paginate]
+
+#paginate
+paginate: 10
+paginate_path: "page:num"
