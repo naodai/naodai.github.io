@@ -10,3 +10,5 @@ git flow init 后，本地的工作副本变成develop分支了。
 开始release start
 
 在feature下更新
+
+在release-git-flow release下编辑
