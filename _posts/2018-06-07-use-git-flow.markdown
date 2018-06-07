@@ -6,3 +6,5 @@ categories: git-flow git 工作流
 ---
 git flow init 后，本地的工作副本变成develop分支了。
 这个post是在develop分支下创建的。
+
+开始release start
