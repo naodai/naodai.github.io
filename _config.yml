@@ -19,7 +19,7 @@ github_username: naodai
 markdown: kramdown
 
 #theme
-theme: Hacker
+remote_theme: Hacker
 
 gems: [jekyll-paginate]
 
