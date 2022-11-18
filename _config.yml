@@ -18,6 +18,9 @@ github_username: naodai
 # Build settings
 markdown: kramdown
 
+#theme
+theme: Hacker
+
 gems: [jekyll-paginate]
 
 #paginate
